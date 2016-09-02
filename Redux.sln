@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux", "Redux\Redux.csproj", "{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Constants.cs|Any CPU = Constants.cs|Any CPU
+		Constants.cs|Mixed Platforms = Constants.cs|Mixed Platforms
+		Constants.cs|x86 = Constants.cs|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Constants.cs|Any CPU.ActiveCfg = Constants.cs|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Constants.cs|Mixed Platforms.ActiveCfg = Constants.cs|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Constants.cs|Mixed Platforms.Build.0 = Constants.cs|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Constants.cs|x86.ActiveCfg = Constants.cs|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Constants.cs|x86.Build.0 = Constants.cs|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Debug|x86.ActiveCfg = Debug|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Debug|x86.Build.0 = Debug|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Release|Any CPU.ActiveCfg = Release|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Release|x86.ActiveCfg = Release|x86
+		{CF5C2922-D9E4-44BE-9D0B-5A4E87803C7E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
